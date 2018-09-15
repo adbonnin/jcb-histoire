@@ -1,0 +1,192 @@
+= La Rochelle : Le Grand Temple
+Jean-Claude Bonnin
+:jbake-last_updated: 2018-09-10
+:jbake-author: Jean-Claude Bonnin
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: La Rochelle, Le Grand Temple
+:description: Documentation sur le Grand Temple
+:idprefix:
+
+:imagesdir: ./images
+
+.Le Grand Temple, Émile Couneau La Rochelle Disparue, La Rochelle, Foucher, 1904, p. 305.
+image::le-grand-temple.png[]
+
+Les premiers lieux du culte réformé à La Rochelle sont aménagés dans de grandes salles reconverties : la salle Saint-Michel est un local autrefois utilisé par la Confrérie Saint-Michel pour ses festins ; la salle Gargoulleau est une grande pièce de réception de l'hôtel particulier de l'échevin Louis Gargoulleau et la salle Saint-Yon est l'ancien réfectoire du couvent des Augustins.
+L'idée de construire à La Rochelle un édifice spécialement destiné pour le culte paraît être consécutive à l'adhésion de la ville à la cause protestante (1568) et à l'arrivée dans ses murs de la cour de Navarre (1569).
+
+Par baillette passée en 1569 devant le notaire Bérault, le corps de ville de La Rochelle acense pour 10 sols de rente aux membres du consistoire _« une place pour bastir ung temple dedans la place du chasteau »_ footnote:[Médiathèque de La Rochelle, manuscrit 158, registre des comptes de la commune de La Rochelle, 1580-1581, f° 21 - Arch. dép. Chte-Mme, E 214, f° XIIII verso.].
+Certains auteurs supposent que les plans du futur édifice furent dressés par l'architecte François Delorme, mort en 1570.
+L'époque n'est pas aux grandes constructions et le projet est suspendu.
+En cette période de guerres de religion, les chefs protestants assurent d'abord la solde de leurs mercenaires étrangers.
+
+Le projet est repris quelques années plus tard, probablement après la proclamation de l'Édit de Poitiers (septembre 1577).
+La première pierre est posée en 1577 par Henri de Bourbon, prince de Condé, mais les travaux s'arrêtent à la moitié des fondations footnote:[Médiathèque de La Rochelle, manuscrit 79, copie du _Livre de la Paterne_, p. 460.].
+
+Il faut attendre encore quelques décennies.
+Les lieux de culte étant devenus insuffisants pour l'importante communauté réformée rochelaise, le consistoire fait aménager l'ancienne chapelle Sainte-Marguerite confisquée aux catholiques de la ville en 1585.
+Lors de l'application de l'Édit de Nantes à La Rochelle, le 6 août 1599, les commissaires royaux imposent la restitution de la chapelle par le consistoire aux catholiques rochelais footnote:[Médiathèque de La Rochelle, manuscrit 164, f° 50.].
+La nécessité d'un nouveau lieu de culte pour les réformés fait ressortir le projet du Grand Temple.
+
+En juin 1600, on en retrouve les fondations footnote:[Médiathèque de La Rochelle, manuscrit 161, diaire du pasteur rochelais Jacques Merlin, p. 388].
+Une collecte ayant amassé 6.000 écus footnote:[Médiathèque de La Rochelle, manuscrit 153, copie du manuscrit de Henri Colin, p. 21.], les travaux peuvent reprendre dès le 16 juin footnote:[Médiathèque de La Rochelle, manuscrit 161, diaire du pasteur rochelais Jacques Merlin, p. 388.].
+Le 21, le pasteur Jacques Merlin pose une nouvelle pierre de fondation sous la muraille de la porte sud footnote:[_Ibid._ et A. Crottet, _Diaire ou journal du ministre Merlin, pasteur de l'Église de La Rochelle au XVIe siècle_ [petit diaire\], Genève, 1855, p. 47 (indique le 23 juillet).].
+Le 5 juillet, devant le notaire David Bion, les anciens et diacres désignés par le consistoire passent le marché de construction de la maçonnerie du Temple avec Philippe Phedon, François Combe, Anselme Cordier, Odet Grellier, Jean Mathy, Pierre Pompot et Guillaume Girard, maîtres maçons et tailleurs de pierres de la Rochelle footnote:[Arch. dép. Chte-Mme, 3 E 201*, min. David Bion, notaire à La Rochelle, 1600, f° 236 v°-238.].
+Les fondations donnent à l'édifice 104 pieds de long sur 70 de large (environ 34 m x 23 m), cotes prises au milieu, le plan étant de forme octogonale oblongue.
+Les murs, surmontés d'un entablement, auront 30 pieds de haut (environ 10 m), _« laquelle muraille aura par le bas quatre piedz et demy de large, et en ce compris le tallut, et a la fin d'icelluy tallut aura ladite muraille quatre piedz et continué en diminuant jusques au haut ou elle aura trois piedz et demy jusques au dessoubz de l'entablement... »_.
+Au milieu de chacun des quatre grands côtés est prévue une porte précédée d'un perron encadré de deux hautes fenêtres ; à chacun des petits côtés, une seule fenêtre.
+La porte du côté sud serait plus petite, bénéficiant d'une décoration particulière, _« ... une porte qui n'aura touteffois que trois piedz de large & six piedz et demy de hault, ornée de pillastres et consoles avecq sa corniche et fronton brizé, remply d'un escusson ou autre ornement »_.
+La décoration des trois autres portes est aussi détaillée, _« et pour l'ornement desquelles portes, y aura un ordre de pillastres appellé corinthe qui sera crenelé sellon son ordre, acompaigné de piedz destras basse et chapiteaux, equitrave, frizes, corniche, couronné d'un frond d'espis (frontispice), savoir deulx ronds et un carré, enrichiz sellon le contenu du pourtraict qui en a esté faict ou mieulx si faire se peult, ensemble la porte qu'il convient faire entre les deux pillastres, avecq trois armoiries et sentences de l'escripture... »_, le travail devant être livré dans les huit mois.
+Le maire de la ville, Pierre Guillemin, ayant particulièrement veillé à la bonne marche des travaux, ses armoiries sont apposées sur le frontispice du temple footnote:[Médiathèque de La Rochelle, manuscrit 79, copie du _Livre de la Paterne_, p. 454.].
+D'après l'un des rares dessins contemporains footnote:[Bibliothèque Nationales, Cabinet des estampes.], montrant l'élévation côté rue Chaudrier, elles étaient, comme c'était l'usage à La Rochelle, surmontées de celles du roi et accompagnées de celles de la ville, avec un cartouche à l'inscription inconnue, probablement citation tirée des textes sacrés.
+On y remarque une tour-clocher à l'angle sud-ouest, non indiquée dans le marché de construction.
+Il est possible que ce document soit un projet élaboré en cours des travaux.
+Sur les plans, la tour-clocher est figurée au milieu de la muraille sud.
+
+.Plan du Grand Temple
+image::plan-du-grand-temple.png[]
+
+Dès août 1603, en moins de trois ans, la construction du temple est achevée.
+Le pasteur Merlin nous signale qu'il a coûté, _« clef en la main, quarante mille livres »_ footnote:[Médiathèque de La Rochelle, manuscrit 161, diaire du pasteur rochelais Jacques Merlin, p. 395.].
+Les travaux ont bénéficié d'un financement inattendu : une collecte de fonds pour l'église de Genève avait été faite en France.
+Le roi s'oppose à l'expédition de l'argent et exige que les sommes soient rendues à leurs donateurs.
+Les fonds recueillis à La Rochelle sont consacrés à l'achèvement du Grand Temple footnote:[_Ibid_.].
+Cet apport exceptionnel explique peut-être la construction, non projetée à l'origine, de la tour abritant la cloche du temple.
+Cette dernière a certainement été fondue à proximité, les vestiges d'un four à cloche de l'époque ayant été découvert lors des fouilles de la place de Verdun, autrefois place du château footnote:[Communication de Jean-Paul Nibodeau, archéologue.].
+Le dessin que nous avons cité, contemporain des travaux, montre le clocher couvert d'un simple dôme.
+Les figurations postérieures montrent celui-ci surmonté d'un clocheton, certainement édifié avant 1620, puisqu'il paraît sur la vue cavalière de la ville publiée par Mérian.
+Le prêche d'inauguration est prononcé le 7 septembre 1603 par le doyen des pasteurs de la ville, Luc Dumont, en présence de 3 500 personnes footnote:[Médiathèque de La Rochelle, manuscrit 153, copie du manuscrit de Henri Colin, p. 23.].
+
+Lors du Grand Siège, en 1627-1628, le temple reçoit plusieurs coups de canon.
+Vers la fin du siège, les Rochelais sont si faibles qu'ils n'ont plus la force _« de sonner la grosse cloche pour le presche »_.
+Après la reddition de la ville, le Grand Temple est remis aux catholiques de la paroisse Saint-Barthélemy pour remplacer leur église, détruite sous la dictature protestante.
+Le roi Louis XIII prévoit d'en faire une cathédrale, lorsque le pape aura érigé un diocèse à La Rochelle footnote:[Article 9 de l'ordonnance prise par le roi en novembre 1628, à l'issue du siège.].
+Dans l'immédiat, le Grand Temple porte encore les stigmates du siège.
+Fin août 1638, les paroissiens sollicitent les autorités pour faire dresser un devis des travaux à effectuer.
+Celui-ci indique notamment la réparation de vingt coups de canon, le remplacement de pierres aux trois porches, des travaux à la charpente, le remplacement de quatre des huit gargouilles, le remontage de quelques tables de plomb.
+La toiture perd ses deux épis de plomb, remplacés par deux grandes croix de fer de 8 pieds de hauteur (2,80 m), _« l'une des croix aura une girouette dans laquelle il y aura un nom de Jesus doré »_.
+Il faudra _« dorer les deux croix & mettre ung coq a une dicelles, comme celuy des Capucins »_.
+Le dessin d'un premier projet de croix accompagne le devis.
+
+.Le dessin d'un premier projet de croix.
+image::projet-de-croix.png[]
+
+Pour l'intérieur, sont prévus des travaux au plancher et la réparation de _« quelques sièges rompus »_.
+Les vitraux sont également à remettre en état, ainsi que les _« vitres qui seront mises aux lucarnes sur le Temple »_ footnote:[Archives municipales de La Rochelle, HH ARCHANC 22.].
+Devant Pierre Teuleron, notaire à La Rochelle, un marché pour la réalisation des travaux est passé le 4 décembre suivant, mais les autorisations officielles pour les effectuer traînent jusqu'en juillet 1639 footnote:[_Ibid_.].
+
+.Détails de la planche 76 de l'album de l'ingénieur Claude Masse : Plan, coupe et profil du Grand-Temple de La Rochelle qui étoit bâty a la place du Château.
+image::plan-coupe-et-profil-du-grand-temple-de-la-rochelle.png[]
+
+L'intérieur du bâtiment présente les aménagements effectués en 1667 pour l'approprier à l'usage du chapitre de la Cathédrale.
+
+Le projet d'installation d'un évêché à La Rochelle fait son chemin.
+Louis XIII disparu, le projet est repris par son successeur.
+Le 4 décembre 1646, un brevet du roi _« ordonne, qu'en attendant la construction d'une nouvelle cathédrale et d'une maison episcopale, le Grand Temple autrefois possédé par les huguenots serve de cathédrale »_ footnote:[Arch. dép. Chte-Mme, G 345, Inventaire des archives du chapitre de la Cathédrale de La Rochelle, XVIIIe siècle, p. 565.].
+Enfin, par bulle du 2 mai 1648, le pape Innocent X érige un évêché à La Rochelle par transfert de celui de Maillezais, auquel il ajoute le pays d'Aunis et l'Île-de-Ré, détachés de celui de Saintes footnote:[Archives de l'Évêché de La Rochelle, Fa I F.].
+Le Grand Temple devient officiellement cathédrale, réalisant le vœu formulé par Louis XIII, vingt ans auparavant.
+Des difficultés surviennent rapidement entre le clergé paroissial, qui s'y était déjà bien installé, et les chanoines du chapitre épiscopal.
+Le 28 décembre 1666, Monseigneur Henri Marie de Laval de Boisdauphin, évêque de La Rochelle, passe marché avec François Brossard, architecte et sculpteur, pour l'aménagement du chœur de la cathédrale footnote:[Arch. dép. Chte-Mme, 3 E 1355, min. Pierre Teuleron, notaire à La rochelle, 1666.].
+Durant les travaux, d'août à novembre 1667, l'évêque et les chanoines officient dans l'église des Augustins.
+En rejoignant leur cathédrale, les chanoines adressent leurs remerciements aux religieux footnote:[Médiath. La Rochelle, ms 775, Registre mémorial du couvent des religieux augustins de La Rochelle, 1630-1723, folio 70.].
+La cohabitation des paroissiens de Saint-Barthélemy avec ceux-ci soulève bien des difficultés et conduit à la reconstruction d'une église Saint-Barthélemy sur une partie des ruines de l'ancienne.
+Durant les travaux, à partir d'avril 1668, le service de la paroisse est reporté, à la demande de l'évêque, dans celle des Augustins footnote:[Ibid., f° 70 v°.].
+Le prieur du couvent signale le départ des paroissiens dans le registre mémorial en 1673 :
+____
+Apres plus de cinq ans que Messieurs de la paroisse de St Barthelemy ont faict leur office dans notre eglise, les religieux leur aiant temoigné l'incommodité qu'ils leurs causoient, en sont sortys se jourd'huy vingt unieme de may, feste de la tres Sainte Trinité, sans reconnoissance, ny sans en faire aucun remerciement...
+footnote:[Ibid., f° 85 v°.]
+____
+En attendant l'achèvement de leur église, en 1678, ils se retirent dans l'église Sainte-Marguerite.
+
+.Les environs du Grand Temple, vers 1689, détail de la planche 76 de l'album de l'ingénieur Claude Masse.
+image::les-environs-du-grand-temple.png[]
+
+* E : place du Château
+* H : le Grand Temple
+* G : la Monnaie
+* I : la chapelle Sainte-Anne
+* N : l'église Saint-Barthélemy édifiée en 1668-1678.
+
+Dans la soirée du 9 février 1687, toute la ville est réunie sur la place du château autour d'un grand feu de joie célébrant le rétablissement du roi.
+Le vent porte quelques étincelles vers le Grand Temple, dont la couverture s'embrase rapidement.
+La population, des soldats et des matelots se précipitent, mais le vent violent attise l'incendie et une pluie de plomb fondu s'écoulant de la toiture empêche toute approche.
+Malgré les efforts, le feu ne peut être maîtrisé.
+Le 26 juillet, le commissaire de la Marine obtient une gratification pour des matelots basques qui ont contribué à combattre l'incendie footnote:[Archives municipales de La Rochelle, BB ARCHANC 5, f° 175.].
+L'arrêt du Conseil d'État du 24 septembre suivant ordonne que le plomb provenant du bâtiment sinistré soit vendu et le prix employé à sa réédification footnote:[Arch. dép. Chte-Mme, G 345, Inventaire des archives du chapitre de la Cathédrale de la Rochelle, XVIIIe siècle, f° 565.].
+Les chanoines ayant perdu leur Cathédrale, viennent installer leur chapitre dans l'église que les paroissiens de Saint-Barthélemy avaient fait reconstruire à leurs frais, de 1668 à 1678, relançant ainsi la vieille rivalité, ce dont ils se plaignent auprès du roi :
+____
+Les suplians ont été obligez plusieurs fois de transférer leur office d'Eglise en Eglise, tantôt a la Chapelle du Séminaire, tantôt aux Augustins, et ils le font actuellement dans l'Eglise paroissiale de St Barthelemy qui est assez mal construite, ou il n'y a point de chœur, et ou ils essuient tous les jours des altercations, soit de la part du Curé, dont les fonctions et l'office ne peuvent souvent s'ajuster avec ceux de la Cathedrale, soit de la part des marguilliers, et sur tout des officiers du Presidial dont les suplians occupent presque tous les bans de l'Eglise...
+footnote:[Arch. dép. Chte-Mme, G 93, n° 17.]
+____
+
+En 1689, le roi décide de redonner une enceinte fortifiée à la ville.
+L'ancienne place du Château étant désignée comme place d'armes, l'emplacement du Grand Temple est jointe à celle-ci.
+Ses ruines disparaissent, ainsi que des constructions voisines : l'ancien hôtel de la Monnaie et la chapelle Sainte-Anne.
+Leurs matériaux servent immédiatement aux travaux des nouvelles fortifications.
+En contrepartie de l'emplacement du Grand Temple, des ordres sont donnés à l'intendant Bégon pour l'acquisition de 18 maisons dont le terrain devra servir à la construction de la nouvelle cathédrale et aux logements pour les chanoines :
+____
+En 1689, l'emplacement du Temple qui avoit été brulé, et du terrain qui étoit au tour et que S. M. leur avoit donné furent necessaires a S. M. pour faire une belle place d'armes, et par un arrêt du Conseil d'Etat du 1er fevrier 1693, S. M. ordonna sur l'avis du Sr Begon pour lors Intendant de La Rochelle qu'il seroit procedé a la liquidation qu'il conviendroit faire aux propriétaires de dix huit maisons qu'il faudroit démolir pour donner aux suplians un autre emplacement et y faire batir une Eglise Cathedrale...
+footnote:[_Ibid._]
+____
+En 1704, le maire et le corps de ville de La Rochelle se lancent dans la plantation de deux rangées d'arbres autour de la place d'Armes, notamment sur l'emplacement du Grand Temple.
+Redoutant les difficultés lors de l'édification d'une nouvelle cathédrale, le 3 novembre de cette année, ils délivrent à l'évêque une attestation par laquelle _« Ils n'ont en aucune maniere pretendu prejudicier aux droits de monseigneur l'Evesque de la Rochelle et du Chapitre ; qu'ils n'entendent planter lesdits arbres que sur le consentement que mondit seigneur l'Evesque et le Chapitre ont accordé, et qu'à condition que touttes fois et quantes que ledit seigneur Evesque et ses successeurs voudront faire construire une nouvelle Eglise ; il leur sera libre d'abattre du costé ou estoit l'ancienne les arbres plantez aultant qu'il en sera necessaire pour l'emplacement qui convient... »_ footnote:[Archives municipales de La Rochelle, BB ARCHANC 9, 1ère partie, f° 21 v°-22.].
+
+En fait, la nouvelle cathédrale ne reprendra pas le site de l'ancien Grand Temple, puisque le roi l'avait annexé à la place d'Armes.
+Elle sera édifiée en arrière des rangées d'arbres, sur l'emplacement des maisons acquises dans ce but.
+
+.Détail du "`Plan de La Rochelle pour servir aux projets de 1746`".
+image::plan-de-la-rochelle.png[]
+
+Au hasard de travaux publics effectués devant la façade de la nouvelle cathédrale, édifiée à partir de 1742, les fondations du Grand Temple reparaissent.
+Des fouilles y ont même été pratiquées en 1886-1887 footnote:[Journal La Charente-Inférieure, 1887, n° 12 du 9 février et n° 36 du 4 avril.].
+À cette occasion, les angles des murs retrouvés sont matérialisés dans le sol de la place par des dalles footnote:[Médiathèque de La Rochelle, fonds Eugène Lévêque, manuscrit 2199, p. 220.], mais des réfections postérieures les ont fait disparaître.
+
+.Croquis d'implantation des dalles posées en 1887 pour indiquer les angles retrouvés du Grand Temple. Médiathèque de La Rochelle, fonds Eugène Lévêque, manuscrit 2199, p. 220.
+image::croquis-d-implantation-des-dalles.png[]
+
+
+== Annexe
+
+Note concernant la sépulture retrouvée en 1886 sur le site du Grand-Temple::
+
+Lors des travaux et fouilles menées en 1886-1887 sur l'emplacement du Grand-Temple, une sépulture en cercueil de plomb est découverte le 28 décembre 1886.
+Elle se situait près de l'angle sud-est, à l'intérieur du monument disparu.
+
+Georges Musset, conservateur de la Bibliothèque de La Rochelle et archéologue, décrit la sépulture :
+
+[quote, Georges Musset, Courrier de La Rochelle, n° 104 du 30 décembre 1886]
+____
+Cette sépulture se composait d'un cercueil en plomb, rétréci aux pieds, ayant 1 mètre 65 de longueur, sur 0,45 et 0,16 de largeur.
+Le travail en est soigné, le plomb épais ; tous les angles ont été disposés en boudin ; quatre anses placées sur les côtés et les extrémités en facilitaient le transport.
+Le cercueil en plomb renfermait en outre un cercueil de sapin en grande partie conservé.
+Les ossements étaient dans leur position normale.
+Sur le crâne on voit encore une touffe de cheveux blonds.
+
+Une inscription placée au côté droit du couvercle nous a conservé le nom de la personne ensevelie ; il n'en est pas de même de la date qui nous échappe jusqu'à présent, quelques sigles placés sur le bord du couvercle, et qui pourrait bien être cette date, n'ayant pu encore être déchiffrés par nous.
+____
+
+L'inscription, en capitales romaines, indique :
+
+____
+`CI.LE. COR.DE  IEANNE.MARCHANT.FEMME.EM - IE`
+____
+
+Les ossements furent transportés au cimetière et le cercueil de plomb rejoignit les collections archéologiques de la ville.
+
+Jeanne Marchant n'est pas une inconnue.
+Elle est la fille de noble homme Antoine Marchant, sieur de la Daroterie, conseiller au Présidial de La Rochelle, et d'Anne Bernon.
+Baptisée au Temple le 24 janvier 1588, elle épouse en premières noces, le 31 juillet 1606, Jacques Mousnereau, sieur de L'Houmée et de Grolleau, aussi conseiller au Présidial, qui disparaît en 1622.
+Elle se remarie le 9 avril 1623, à Jean de Lescale, lieutenant général criminel, qui devient président du Présidial de 1635 à 1653, mort en 1663 et inhumé dans l'église des Augustins.
+Jeanne Marchant était décédée auparavant, et effectivement inhumée dans le Grand Temple, devenu église Saint-Barthélemy, avant d'être cathédrale.
+Les registres de la paroisse Saint-Barthélemy nous signalent :
+____
+Le 29 du mois de feurier 1654 a esté inhumée en l'eglise destinée pour la Cathedrale qu'on appelle le Grand Temple, Jeanne Marchand, femme de Messire de Lescale, president au presidial.
+____
+
+== Références
+
+- Bulletin de la Société des Archives historiques de la Saintonge et de l'Aunis, t. VII (1887), p.21.
+- Médiathèque de La Rochelle, fonds Eugène Lévêque, ms 2195, p.143 et ms 2199, p. 220.
+- Médiathèque de La Rochelle, ms 352 et 353, notes biographiques Jourdan.
+- Archives municipales de La Rochelle, registres paroissiaux, paroisse Saint-Barthélemy, sépultures, 1651-1668.
