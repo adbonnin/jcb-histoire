@@ -17,7 +17,7 @@ jbake {
     clearCache = true
 }
 
-publish {
+gitPublish {
     repoUri = 'git@github.com:adbonnin/jcb-histoire.git'
     branch = 'gh-pages'
     
@@ -30,6 +30,6 @@ publish {
     commitMessage = System.env.COMMIT_MESSAGE ?: 'chore(): nouvelle publication'
 }
 
-task bakeAndPublish(type: GradleBuild) {
-    tasks = ['clean', 'bake', 'publish']
+task bakeAndGitPublish(type: GradleBuild) {
+    tasks = ['clean', 'bake', 'gitPublish']
 }
