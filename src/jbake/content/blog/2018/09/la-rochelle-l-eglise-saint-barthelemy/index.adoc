@@ -1,5 +1,6 @@
 = La Rochelle : L'église Saint Barthélemy
 Jean-Claude Bonnin
+2018-09-20
 :jbake-last_updated: 2018-09-20
 :jbake-author: Jean-Claude Bonnin
 :jbake-type: post
