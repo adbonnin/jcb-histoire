@@ -1,4 +1,10 @@
-output/
-.gradle/
+
+## IntelliJ
 build
 .idea/
+
+## JBake
+output/
+
+## Gradle
+.gradle/
