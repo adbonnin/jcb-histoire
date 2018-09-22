@@ -1,0 +1,237 @@
+= Surgères : L'Église et le Prieuré Saint-Pierre.
+Jean-Claude Bonnin
+2018-09-22
+:jbake-last_updated: 2018-09-22
+:jbake-author: Jean-Claude Bonnin
+:jbake-type: post
+:jbake-status: published
+:jbake-tags: Surgères, L'église Saint-Pierre, Le prieuré Saint-Pierre
+:description: Documentation sur l'église et le prieuré Saint-Pierre de Surgères
+:idprefix:
+:imagesdir: ./images
+
+L'église Saint-Pierre de Surgères était desservie par un chapitre de chanoines séculiers dirigée par un prieur.
+Celui-ci, élu par ses confrères à l'origine, était placé sous l'autorité de l'évêque de Saintes.
+Cette église était également le siège de l'archiprêtré de Surgères.
+Le prieur ou un chanoine du chapitre était désigné par l'évêque comme Archiprêtre de Surgères.
+
+Vers 1040, Aleard est archiprêtre de Surgères footnote:[Louis Redet, « Cartulaire de l'abbaye de Saint-Cyprien de Poitiers », _Archives historiques du Poitou_, tome III, Poitiers, 1874, p. 291.].
+Par la suite, en 1159, nous trouvons Guillaume, chanoine et archiprêtre de Surgères footnote:[_Gallia Christiana_, tome II, p. 460-461 des preuves.] ; en 1200, Pierre, archiprêtre de Surgères footnote:[Georges Musset, « L'abbaye de la Grâce-Dieu », _Archives historiques de la Saintonge et de l'Aunis_, tome XXVII, 1898, p. 146.].
+Pour le XIIIe siècle, nous trouvons encore les archiprêtres Etienne Chopin en 1293 footnote:[Archives départementales de Maine-et-Loire, fonds de l'abbaye de Fontevraud, 217 H 1 (Prieuré Sainte-Catherine de la Rochelle).] et Aymar Buchade, en 1297 et 1302 footnote:[Archives départementales de la vienne, fonds de l'abbaye Saint-Junien de Nouaillé, 1 H 5, liasse 3 (Prieuré de Saint-Sauveur de Nuaillé) et Carton 15, sceau n° 85.].
+A l'instar de l'archidiacre d'Aunis et des autres archidiacres ou archiprêtres, l'archiprêtre de Surgères détient le pouvoir et la charge d'officialiser les actes.
+Il appose son sceau au bas des actes privés pour en certifier le contenu.
+Bien sûr, l'apposition de son sceau n'est pas gratuite.
+Le prieur de Saint-Pierre lui-même, comme autorité religieuse, peut apposer son sceau dans les mêmes conditions.
+
+.Sceau de Robert, archiprêtre de Surgères, XIVe siècle footnote:[Empreinte d'après sa matrice en bronze retrouvée à Andilly-les-Marais, vers 1950, et conservée aux Archives départementales de la Charente-Maritime.]. SIGILLUM : ROBERTI : ARCHIPRESBITERI : SURGERI : AD : CAUZAS
+image::sceau-de-robert.png[align="center", width=200]
+
+Jusqu'au XVIIIe siècle, le prieuré Saint-Pierre de Surgères possède un beau fonds d'archives dont les plus anciens titres remontaient au XIIIe siècle.
+L'ensemble ayant été incorporé aux archives du chapitre de la cathédrale à La Rochelle, l'ensemble disparait dans l’incendie du Séminaire survenu dans la nuit du 1er au 2 juin 1772.
+Les trois volumes de l’inventaire du fonds du chapitre nous sont heureusement parvenus et nous consolent un peu de la perte des documents qu’ils inventoriaient.
+De nombreuses pages contiennent l’analyse pièce à pièce des archives provenant de Saint-Pierre de Surgères footnote:[Archives départementales de la Charente-Maritime, G 345*.].
+
+Le chapitre de l'église est composé de chanoines qui vivent sous la règle de Saint-Augustin, mais leur organisation fait l'objet d'un règlement.
+L'inventaire des archives du prieuré indique le texte des statuts correspondants, rédigés en 1470 et 1515 footnote:[_Ibid._, f° 251 v°.].
+Cette dernière version, en date du 20 août 1515, est confirmée le 1er avril 1516 par l'évêque de Saintes et sera observée jusqu'au XVIIe siècle.
+Les documents conservés ou connus par l'inventaire abordent souvent les rapports entre le prieuré Saint-Pierre, les autres établissements religieux et les seigneurs locaux.
+En 1233, le prieuré fait l'objet d'une plainte de la part de l'abbesse de Fontevraud au sujet du droit de pacage dans la forêt d'Argenson (de Benon) footnote:[Paul Marchegay, _Documents originaux et inédits sur l'Aunis et la Saintonge_, Saint-Jean-d'Angély, 1878, p. 66.].
+Ses rapports avec l'autre prieuré, celui de Saint-Gilles, sont plus détendus, formés d'échanges et de transactions foncières.
+Le prieur et le chapitre de Saint-Pierre de Surgères sont seigneurs du village ainsi que de celui de Marencennes.
+Possédant droit de juridiction, ils font régulièrement tenir leurs assises par leur sénéchal.
+Ils détiennent leur propre mesure ou boisseau, différente de celle de Surgères, ainsi que d'autres prérogatives seigneuriales.
+
+Lors de la levée des Subsides au profit du Pape Jean XXII, en 1326, le prieur de Saint-Pierre est taxé, pour lui et son chapitre, à 20 florins d'or footnote:[J. Depoin, « La levée de subsides du pape Jean XXII sur la province de Bordeaux et le Diocèse de Saintes », _Archives Historiques de la Saintonge et de l'Aunis_, tome XLV, 1914, p. 200.].
+Le Pouillé du Diocèse de Saintes, dressé en 1402, indique que l'église paroissiale et collégiale Saint-Pierre de Surgères est à la présentation du chapitre du dit lieu et à l'institution du seigneur évêque footnote:[Pouillé des bénéfices de l'évêque de Saintes dans son diocèse, dit _« Pancarte de Rochechouart »_, vers 1402, Copie du XVIIe siècle,  Archives départementales de la Vienne, Carton 27, pièce n° 1, p. 58.].
+Il indique également la redevance de 12 sols 6 deniers due par la « fabrique » de l'église.
+La « fabrique » regroupe quelques paroissiens, les « fabriqueurs » ou marguilliers, qui se chargent de gérer les biens de leur église, dont les revenus servent à assurer l'entretien de l'édifice, les frais du culte et autres dépenses correspondantes.
+
+L'archiprêtré de Surgères est durement éprouvé par la guerre de Cent-Ans, comme l'indique une supplique adressée au pape en 1435 footnote:[Henri Denifle, _La désolation des églises, monastères et hôpitaux en France pendant la Guerre de Cent Ans_, tome I, Paris, 1897, p. 190.].
+Les documents figurés représentant l'église Saint-Pierre au XIXe siècle montrent des reprises de style gothique sur un édifice roman, correspondant probablement à des réparations de dommages occasionnés à cette époque.
+
+En dehors de la diminution de ses revenus, la période des Guerres de Religion ne semble pas avoir apporté de désordres particuliers à Saint-Pierre de Surgères.
+L'église conserve encore sa voûte, indice que l'édifice n'a pas subi de destructions majeures.
+Les visites de la paroisse par les autorités religieuses nous apportent quelques précisions.
+Lors de sa visite effectuée le 7 juillet 1627, le vicaire général de l'évêque de Saintes à La Rochelle, pays d'Aunis et Ile-de-Ré, n'indique pas de ruines ou de démolitions, souvent mentionnées dans les paroisses des environs.
+L'église paraît alors en bon état.
+Il commence par rappeler le prieur et les chanoines à leur devoir, ce qui semble indiquer qu'ils s'en étaient plutôt écartés.
+L'inventaire des ornements et objets du culte ne montre pas une grande richesse.
+Au sujet des registres paroissiaux, le prieur-curé indique un cahier couvert de parchemin où il inscrit les baptêmes, mais _« qu'il n'avoit point encores enregistré le nom des deffuns et mariez dans sa paroisse »_. footnote:[Médiathèque de La Rochelle, ms 760, p. 101-104.].
+
+A l'issue du Siège de La Rochelle, en 1628, le roi Louis XIII prend la décision d'y créer un évêché.
+Il faut attendre 1648 pour trouver la réalisation du projet.
+En fait, on y transfère le siège de l'évêché de Maillezais avec son territoire, augmenté du pays d'Aunis et de l'Ile-de-Ré.
+Les revenus du chapitre de Saint-Pierre, considérablement diminués à l'époque des Guerres de Religion, ne peuvent plus permettre l'entretien d'un nombre important de chanoines.
+Par sentence rendue le 22 avril 1659, l'évêque de La Rochelle, Jacques-Raoul de la Guibourgère, _« réduit les cinq chanoines de Saint-Pierre près Surgères au nombre de trois, ordonne que les titres des deux premiers vaquants seront éteints et supprimés »_ footnote:[Archives départementales de la Charente-Maritime, G 345*, f° 252 v°.].
+Le 6 mai 1663, c'est l'évêque de La Rochelle en personne, monseigneur Henri de Laval de Bois-Dauphin, qui fait la visite de la paroisse Saint-Pierre de Surgères footnote:[Archives de l'Evêché de La Rochelle, Fa II C.].
+Ses observations sont complètes et précises.
+Il note _« ... nous avons considéré l'Eglise dudit St Pierre de Surgeres que nous avons trouvée bien faitte, blanche & passablement ornée & assés grande pour contenir tout le peuple de ladite paroisse...»_.
+Il prend connaissance des statuts du chapitre de 1515 et en rappelle certains articles.
+Il constate _« ... il y devoit avoir huit chanoines, mais une grande partie des rentes & revenus s'estant perdue par le malheur des guerres civiles, par la persécution des heretiques, & par l'enlevement de pleusieurs de leurs titres, le nombre fut réduit à cinq, et aujourd'huy les chanoines trouvans le revenu fort petit, ils tachent de se maintenir au nombre de trois, outre le prieur, afin de pouvoir faire quelque forme de chapitre & de pouvoir mieux s'entretenir pour se tenir sur le lieu & y faire les offices divins...»_.
+La description de l'église est précise : _« ladite église est couverte d'une bonne voute & fermée toute a l'entour d'une muraille fort épaisse, longue d'environ de cent pieds.
+Le chœur des chanoines qui prend presque la moitié de ladite église est fermé d'un balustre de bois de pres de deux brasses de hauteur.
+Il est tout pavé de grands quarreaux de pierre de taille... il y a une sacristie qui termine d'un costé ladite église & qui est pour le service dudit prieur & chanoines...
+De chaque costé du fonds du chœur sont les sieges des prieur & chanoines avec des acoudoirs de bois en façon de pulpitres devant lesdits sieges qui sont au nombre de quatre... le restant de l'église ou le peuple se place pour assister aux offices divins n'a point d'autre pavé que l'ajancement de la terre mesme...
+Joignant ladite grande Eglise dudit chapitre, il y a une chapelle sous le nom & titre de la Sainte Vierge.
+Laquelle chappelle est aussi bien voutée & longue les deux tiers de ladite Eglise.
+On y entre par l'Eglise a la faveur d'une grande arcade... »_.
+L'évêque signale _« ... un pied de clocher qui est au fonds de ladite chapelle... »_.
+Le prieur se plaint des travaux effectués par ses paroissiens le dimanche et demande que le prélat dicte des ordonnances pour y remédier ; _« ... Représente de plus ledit prieur que la fabrique dudit St Pierre estant fort pauvre & sans presque point de rente, le fabriqueur donne le cemetiere a ferme avec le pouvoir de mettre des troupeaux ou de chevaux dedans & s'il ne donnoit pas ce cemetiere avec cette condition, il n'en auroit pas le tiers de la rente qu'il en tire... »_.
+
+.Monseigneur Henri de Laval de Bois-Dauphin, évêque de La Rochelle. Portrait gravé par Jean Lenfant en 1660.
+image::portrait-monseigneur-henri-de-laval.png[align="center", width=300]
+
+Le prieur de Saint-Pierre a désormais moins d'importance que par le passé et le baron de Surgères tente d'en profiter.
+En 1666-1667, le prieur défend ses prérogatives en matière de juridiction face aux prétentions du baron footnote:[Archives départementales de la Charente-Maritime, G 345*, f° 253 v°.].
+A cette époque, le pouvoir royal encourage la conversion des protestants au catholicisme, et notamment par des mesures fiscales.
+En 1681, on diminue de moitié _« la taille des nouveaux convertis de la paroisse de Saint Pierre près Surgères au désir de la déclaration de Sa Majesté »_ footnote:[Ibid.,f° 254].
+La mission bottée de l'intendant de Rochefort Demuin, en août de cette année, à Surgères et dans les villages environnants footnote:[Abraham Tessereau, _Histoire des réformez de La Rochelle, depuis l'année 1660 jusqu'à l'année 1685 en laquelle l'Edit de Nantes a été révoqué_, Amsterdam, 1689, p. 157-161.] porte ses fruits.
+L'année suivante, aucun protestant n'est signalé à Saint-Pierre footnote:[_Estat des parroisses de l'Eslection de La Rochelle, du nombre de feux dont elles sont composées et combien il y en a de la R.P.R._, 28 mai 1682, Archives Nationales, TT263 B,].
+Lors de sa visite de la paroisse effectuée le 13 mai 1688, l'archidiacre note la pauvreté du mobilier et de la fabrique de l'église.
+Le prieur assure le service paroissial, mais le service canonial (du chapitre) ne s'y fait plus depuis trois ans par _« ... la négligence et absence des chanoines, on nous a fait plainte que ledit Lacan, chanoine, est fort sujet au vin et fort violent... il y a aussi grand besoin de faire quelque depense pour réparer les piliers qui soutiennent l'église par dehors...
+Le cimetiere est aupres de l'église, fermé d'un costé de fossez et hayes vives, et ouvert de tous les autres... »_ footnote:[Archives de l'Evêché de La Rochelle, Fa II C.].
+Les visites des 2 décembre 1694 et 20 avril 1698 sont effectuées par l'évêque en personne.
+Il rappelle encore les chanoines à leurs devoirs et au sujet du cimetière, _« ... avons ordonné de faire fermer le plustost qu'on pourra, en sorte que le bestail n'y puisse pas entrer... »_ footnote:[_Ibid._, Fa II D.].
+Lors de la visite du 6 mai 1718, le vicaire général de l'évêque Chalmette ne nous apprendra pas grand chose de nouveau footnote:[_Ibid._, Fa II E.].
+
+Lors de sa visite de 1698, l'évêque de La Rochelle lance une enquête sur l'utilité de conserver le chapitre de Saint-Pierre footnote:[Archives départementales de la Charente-Maritime, G 345*, f° 254-255.].
+Les conclusions aboutissent à son décret du 19 janvier 1702 _« portant suppression du chapitre de l'église collégiale de Saint-Pierre près Surgères et union des revenus d'icelluy au chapitre de l'Eglise Cathédrale de la Rochelle »_ footnote:[_Ibid._].
+En octobre 1720, les lettres patentes du roi confirment ce décret footnote:[_Ibid._].
+Ces documents ne seront enregistrés au parlement que le 4 septembre 1742 footnote:[_Ibid._].
+Les habitants de Saint-Pierre refusant de payer au chapitre de la Cathédrale de La Rochelle les dîmes et autres redevances dues auparavant au prieuré de Saint-Pierre et s'opposant à l'union, des procédures sont engagées à leur égard footnote:[_Ibid._, f° 279.].
+Le 5 septembre 1708, après le décès du prieur Jacques Bagard survenu deux jours auparavant, le Chapitre de la Cathédrale envoie le chanoine syndic prendre officiellement possession du prieuré-cure de Saint-Pierre, conformément au décret d'union de 1702.
+Il ne trouve personne pour lui donner les clés de l'église et doit prendre possession du prieuré devant le portail d'entrée footnote:[Archives municipales de La Rochelle, GGARCHANC 745, Insinuations ecclésiastiques, 1708-1711, f° 22.].
+Dans le même temps, le 7 septembre, l'évêque nomme un prieur-curé pour Saint-Pierre de Surgères, Pierre Laborde, déjà curé de Saint-Georges-du-Bois.
+Le 15 septembre, il vient prendre possession de ses nouvelles fonctions et n'a aucune difficulté pour entrer dans l'église footnote:[_Ibid._, f° 29 v°.].
+Celle-ci ne peut rester sans desservant et il faut bien accorder à celui-ci de quoi subsister.
+En dehors des procédures en cours, une transaction est passée le 30 décembre 1711, entre les chanoines de la Cathédrale de La Rochelle et le prieur-curé Laborde footnote:[Archives départementales de la Charente-Maritime, 3 E 1864, André Rochard, notaire à La Rochelle, 1694-1722.].
+Par cet acte, les chanoines consentent à ce que le prieuré-cure soit distrait du décret d'union.
+Mais rien n'est simple : entre temps, un autre candidat au prieuré-cure de Saint-Pierre s'est adressé directement au Pape afin d'obtenir le poste souhaité, Maître Pierre Cosme Regnier.
+Bien que prêtre du diocèse de La Rochelle, il est bachelier en Sorbonne et demeure à Paris.
+La bulle pontificale lui est accordée le 5 octobre 1708.
+Il fait prendre possession du prieuré-cure de Saint-Pierre, le 21 mai 1710, par un procureur local auquel il a fait parvenir une procuration de Paris footnote:[Archives municipales de La Rochelle, GGARCHANC 745, Insinuations ecclésiastiques, 1708-1711, f° 210 v°-212.].
+L'affaire se règle par un concordat entre les deux prétendants et fait l'objet d'une bulle papale donnée le 5 des calendes de février 1712.
+En conséquence, le Prieur-curé Pierre Laborde prend à nouveau possession de son prieuré-cure le 27 mai 1712 footnote:[Archives départementales de la Charente-Maritime, 3 E 1864, André Rochard, notaire à La Rochelle, 1694-1722.].
+
+Effectuant sa visite de la paroisse le 2 juin 1728, l'évêque note la chute d'un cordon de la voûte de l'église et ordonne de le faire rétablir pour éviter tout danger.
+Il remarque que le cimetière est entouré de fossés _« avec de petits murs et quelques arbres, nous avons ordonné qu'il y seroit fait une barriere pour en fermer l'entrée... »_ footnote:[Archives de l'Evêché de La Rochelle, Fa II F.].
+Lors de la visite suivante, le 30 août 1741, le vicaire général Chalmette indique encore l'absence de barrière à l'entrée du cimetière footnote:[_Ibid._, Fa II G.].
+
+Au cours du XVIIIe siècle, les seigneurs de Surgères tentent de s'arroger les droits seigneuriaux appartenant à l'ancien chapitre de Saint-Pierre.
+Le prieur et le chapitre avaient présenté régulièrement  leurs déclarations de domaines, droits et revenus au roi.
+Ils faisaient de même envers le seigneur de Surgères pour des biens moins importants qu'ils possédaient dans sa châtellenie.
+Le 8 août 1738, le seigneur de Surgères parvient à obtenir un arrêt du Parlement en sa faveur et le chapitre de La Rochelle est contraint de lui rendre une déclaration _« des domaines, droits et revenus du chapitre de Saint-Pierre près Surgères ; uni au dit chapitre de La Rochelle... »_ et doivent reconnaître _« ... qu'ils tiennent en franche aumône de la ditte baronnie à cause du château du dit lieu »_.
+Un autre arrêt du parlement mentionné en 1779, est prononcé _« au profit du seigneur de Surgères contre ledit sieur prieur et autres, qui déclare ledit seigneur de Surgères seul haut justicier des paroisses de Saint-Pierre et de Saint Germain »_ footnote:[Archives départementales de la Charente-Maritime, G 345*, f°259-260,].
+
+Le seigneur prétend également imposer certaines contraintes aux habitants de Saint-Pierre.
+Le prieur Pichard et le Chapitre de La Rochelle défendent leurs droits face à ces prétentions.
+L'arrêt du Parlement en date du 30 août 1749 est prononcé en faveur des habitants, ainsi que du chapitre de La Rochelle et du prieur Picard, _« comme seigneurs temporels et directs du bourg et paroisse de Saint-Pierre contre les seigneurs de ladite baronnie de Surgères par lequel deffenses sont faittes aux dits seigneurs de contraindre les habitants dudit Saint Pierre aux droits de corvées, four et moulins bannaux... »_ footnote:[Archives départementales de la Charente-Maritime, G 344*, f° 279 v°, et G 345*, f° 256 v°.].
+
+Le seigneur de Surgères revendique également des honneurs dans les églises de l'ancien chapitre.
+En 1779, le curé de Saint-Mard atteste _« que pendant 6 ans qu'il a été vicaire à Saint Pierre et 22 ans qu'il a été curé de Saint Germain, il n'a jamais rendu les droits honorifiques dans ces deux églises au seigneur de Surgères, ni être requis de le faire, ayant toujours reconnu que celle de Saint Germain est dans la directe de Saint-Pierre »_ footnote:[_Ibid._, f° 258.].
+
+L'existence du prieuré-cure ne survivra pas à la Révolution.
+En 1791, ayant refusé de prêter serment à la constitution civile du clergé, le prieur-curé Pierre Blavoust est remplacé en avril par Jean Paulier, ancien supérieur du couvent des Minimes de Surgères, et part se réfugier à Burgos, en Espagne.
+Le culte est bientôt interdit à Saint-Pierre comme dans l'ensemble de la nation.
+
+L'époque de la Terreur passée, de nombreuses églises sont remises en service, puis le régime concordataire instauré sous le Consulat réorganise les cultes.
+L'ancienne paroisse Saint-Pierre ne bénéficiant pas de titulaire, elle est réunie à celle de Surgères.
+En 1838, l'église et le presbytère de Surgères ont besoin de travaux.
+L'église de Saint-Pierre est restée abandonnée depuis la Révolution et elle est dans un triste état.
+Dans sa délibération du 18 mars 1838, les membres du conseil de fabrique de l'église Notre-Dame de Surgères demandent que la fabrique _« ... soit mise en possession de l'Eglise de Saint Pierre de Surgères et des terrains qui en dépendent ; et demandent en outre à être autorisé à les vendre pour le prix de la vente être affecté aux réparations de l'Eglise et du presbytère de Notre Dame de Surgères ainsi qu'aux autres besoins de la fabrique »_.
+La municipalité de Saint-Pierre consultée refuse de se laisser déposséder, _« ... observant du reste, que cette église n'est pas si mauvaise, qu'elle pourrait fort bien être réparée »_.
+Mais la petite commune n'a pas beaucoup de poids et sera contrainte d'abandonner une partie de son patrimoine.
+L'ordonnance royale en date du 30 septembre 1840 autorise _« l'aliénation, par la fabrique de Surgères, du sol et des vieux matériaux de l'église de Saint Pierre de Surgères, pour le produit en être employé aux réparations de l'église paroissiale et du presbytère »_.
+En 1841, l'église Saint-Pierre, ainsi que son emplacement, sont vendus au profit de la fabrique de Surgères et le monument est rapidement démoli par la suite footnote:[Archives départementales de la Charente-Maritime, 2 O 2727 et 2 O 2704.].
+
+.L'église de Saint-Pierre de Surgères en 1840. Dessin de Louis-Benjamin Auguin, Médiathèque de Rochefort.
+image::dessin-l-eglise-de-saint-pierre.png[align="center", width=500]
+
+Après avoir perdu le monument emblématique de son antique paroisse, la commune de Saint-Pierre de Surgères perd bientôt son identité.
+Elle est supprimée par la Loi du 6 août 1850 et partagée entre ses deux voisines, Surgères et Saint-Germain-de-Marencennes.
+La République réalise les ambitions des barons de Surgères d'autrefois.
+
+.Croquis du sceau d'Aymar Buchade, archiprêtre de Surgères, 1302. Archives départementales de la vienne, Carton 15, sceau n° 85.
+image::croquis-sceau-d-aymar-buchade.png[align="center", width=300]
+
+Prieurs connus::
+
+* 1232.
+Thomas, prieur footnote:[Médiathèque de Poitiers, manuscrit Dom Fonteneau 38, p. 27.].
+
+* 1338-1346.
+Hélie Joubert, prieur footnote:[Charles Métais, « Cartulaire saintongeais de la Trinité de Vendôme », _Archives historiques de la Saintonge et de l'Aunis_, tome XXII, 1893, p.247.].
+
+* 1408-1409.
+Denis Peletaud _(Peletaut)_, bachelier en lois, prieur footnote:[Bibliothèque nationale, manuscrit latin 9233, n° 14. - manuscrit français 20917, n° 141.].
+
+* 1425-1429.
+Pierre de Saumur, prêtre, prieur du prieuré Saint-Pierre de Surgères et chanoine de Saintes footnote:[_Ibid._, manuscrit français 20917, n° 142.].
+
+* 1486-1500.
+Jehan du Puy du Fou, prieur footnote:[_Ibid._, manuscrit français 20917, n° 143-144.].
+
+* 1555-1557.
+Jehan Poitevin, prieur-curé.
+Pourvu du prieuré par bulle du Pape datée de Saint Pierre de Rome, le 13 des calendes de mai de la première année du pontificat de Paul IV (1555).
+Il en prend possession le 31 octobre suivant footnote:[Archives municipales de La Rochelle, GGARCHANC 744, Insinuations ecclésiastiques, registre de 1555-1556, f° 59-60.].
+
+* 1566-1567.
+Jehan Chenau, maître es arts en l'Université de Paris, prieur.
+Pourvu par bulle du Pape datée de Saint Pierre de Rome, le 7 des ides de mai, première année du pontificat de Pie V (1566).
+Il prend possession du prieuré le 16 février 1567 footnote:[_Ibid._, registre de 1567-1568.].
+
+* 1619.
+Jean Brunet, prêtre du diocèse de Marseille, prieur.
+Le 5 avril 1619, il rédige sa procuration pour résigner entre les mains du Pape son prieuré de Saint-Pierre de Surgères en faveur du Père André Jousseaume, prêtre de l'Oratoire de La Rochelle, en contrepartie d'une rente annuelle de 300 livres sur les revenus du prieuré footnote:[Archives départementales de la Charente-Maritime, 3 E 1262, min. Jean Combauld, notaire à La Rochelle, 1619.].
+
+* 1627-1661.
+Noël de Champuis, prêtre du diocèse d'Amiens.
+Le 30 avril 1660, il rédige une procuration pour résigner son prieuré en faveur de Sans Borrust, prêtre du diocèse d'Auch, bachelier en théologie, curé de Saint-Brez, diocèse de Saint-Papoul, moyennant rente viagère annuelle de 500 livres footnote:[Médiathèque de La Rochelle, ms 760, p. 101. - Archives départementales de la Charente-Maritime, 3 E 37/28, min. Cassoulet, notaire à Saintes, 1660.].
+
+* 1662-1682.
+Sans Borrust, prêtre et bachelier en théologie du diocèse d'Auch, prieur-curé.
+Décédé en 1682, il est inhumé le 17 mai de cette année dans le chœur de l'église footnote:[Archives départementales de la Charente-Maritime, 3 E 37/28, 3 E 33 et 3 E 34 (min. Cassoulet, notaire à Saintes, 1660, 1665 et 1666) - Registres paroissiaux de Saint-Pierre de Surgères.].
+
+* 1682.
+Jean Nicolay, prêtre du diocèse de Bourges, prieur-curé.
+Les chanoines du chapitre de Saint-Pierre, reprenant les anciennes traditions capitulaires, procèdent à l'élection d'un nouveau prieur et portent leur choix sur Jean Nicolay, prêtre du diocèse de Bourges, résidant à Saint-Pierre.
+Celui-ci est déjà, depuis décembre 1681, second régent du collège de Surgères.
+Il prend possession du prieuré-cure le 3 juin 1682 footnote:[Archives départementales de la Charente-Maritime, G 79, Insinuations ecclésiastiques, 1681-1683, f° 8 v°, 19 v°, 30 v°. - Registres paroissiaux de Saint-Pierre de Surgères.].
+Les simples lettres de provision émanant des chanoines ne sont pas confirmées par les autorités ecclésiastiques du diocèse qui désignent un autre titulaire.
+
+* 1682-1708.
+Jacques Bagard, prieur-curé.
+Pourvu de Saint-Pierre de Surgères par provisions émanant de l'évêque de La Rochelle en sa faveur, le 21 novembre 1682, il en prend officiellement possession le 18 décembre suivant footnote:[Archives départementales de la Charente-Maritime, G 79, Insinuations ecclésiastiques, 1681-1683, f°52 v°. - Registres paroissiaux de Saint-Pierre de Surgères.].
+Jacques Bagard est encore curé de Notre-Dame de Vouhé lors de sa nouvelle nomination.
+En 1682-1683, nous relevons ainsi Charles Gaultier, _« faisant les fonctions curiales »_ à Saint-Pierre de Surgères footnote:[Registres paroissiaux de Saint-Pierre de Surgères.].
+Il n'abandonnera sa cure de Vouhé qu'en 1689 en faveur de Pierre Bagard, clerc tonsuré et acolyte du diocèse de La Rochelle, sans doute de sa famille footnote:[Archives départementales de la Charente-Maritime, G 80, Insinuations ecclésiastiques, 1689-1691, f° 32 v°.]. +
++
+Jean Nicolay, son malheureux et éphémère concurent, avait conservé des prétentions sur le prieuré-cure et trouva un successeur en la personne de Jean Arnauld, prêtre du diocèse de Saintes, en faveur duquel il résigne son prétendu bénéfice.
+Celui-ci parvient à obtenir la bulle papale lui accordant le prieuré-cure de Saint-Pierre de Surgères.
+S'étant vu refuser le visa correspondant auprès de l'évêque de La Rochelle, il l'obtient auprès de l'Archevêque de Bordeaux et vient prendre possession du prieuré-cure, le 14 mai 1686, devant le seuil de l'église, parce que les chanoines lui en ont refusé l'accès, mais ceux-ci se rétractent deux jours plus tard, ce qui ne change rien footnote:[Archives départementales de la Charente-Maritime, 3 E 21/9, min. Gabet, notaire à Rochefort, 1686 - _Ibid._, 3 E 45/114, min. Godineau, notaire à Surgères, 1686.].
+Jacques Bagard demeure le légitime titulaire.
+Archiprêtre et prieur, il meurt le 3 septembre 1708, âgé d'environ 76 ans, et il est inhumé le lendemain devant le grand autel de l'église footnote:[Registres paroissiaux de Saint-Pierre de Surgères.].
+
+* 1708-1721.
+Pierre Laborde, prieur-curé.
+Pourvu du prieuré-cure de Saint-Pierre de Surgères le 7 septembre 1708 par l'évêque de La Rochelle, il en prend possession le 15 septembre footnote:[Arch. municipales de La Rochelle, GGARCHANC 745, Insinuations ecclésiastiques, 1708-1711, f° 29 v°-30.].
+Nous avons vu précédemment les difficultés rencontrées par celui-ci, l'obligeant à effectuer une seconde prise de possession le 27 mai 1712 footnote:[cf. ci-dessus notes 29-32.].
+Il est décédé le 15 décembre 1721, âgé d'environ 54 ans et inhumé le 17 dans l'église, devant le grand autel, du côté de l'Evangile.
+
+* 1722-1757.
+Nicolas Pichard, prieur-curé.
+Le 16 décembre 1757, il rédige une procuration pour résigner son prieuré-cure en faveur de Charles-Venant Pichard, prêtre du diocèse de La Rochelle, licencié en théologie de la faculté d'Angers, demeurant à Saint-Pierre près Surgères, moyennant une pension annuelle de 400 livres footnote:[Archives départementales de la Charente-Maritime, 3 E 1962, min. Jacques Solleau, notaire à La Rochelle, 1757.].
+
+* 1758-1782.
+Charles-Venant Pichard, prieur-curé.
+Ayant obtenu bulle papale datée de Rome, à Sainte-Marie, le 4 des ides de janvier 1712, lui conférant le prieuré Saint-Pierre de Surgères, il en prend possession le 12 mars suivant footnote:[_Ibid._, 3 E 1963, min. Jacques Solleau, notaire à La Rochelle, 1758.].
+
+* 1783-1791.
+Pierre Blavoust, prieur-curé.
+Ayant refusé de prêter serment à la Constitution civile du clergé, il part se réfugier à Burgos, en Espagne footnote:[Registres paroissiaux de Saint-Pierre de Surgères et  Archives départementales de la Charente-Maritime, 1 J 509.].
+Rentré en France lors de la restauration du culte, il reprend ses activités, devient doyen du Chapitre de la Cathédrale de la Rochelle et meurt en 1843.
+
+* 1791-1792.
+Jean Paulier, ancien supérieur du couvent des Minimes de Surgères, curé de Saint-Pierre, a prêté serment.
+Il remet ensuite ses lettres de prêtrise et reçoit une pension footnote:[Registres paroissiaux de Saint-Pierre de Surgères.].
