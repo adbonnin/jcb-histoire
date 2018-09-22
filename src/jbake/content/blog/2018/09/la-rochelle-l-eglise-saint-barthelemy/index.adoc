@@ -8,7 +8,6 @@ Jean-Claude Bonnin
 :jbake-tags: La Rochelle, L'église Saint Barthélemy
 :description: Documentation sur l'église Saint Barthélemy
 :idprefix:
-
 :imagesdir: ./images
 
 Après la concession des premières libertés au petit bourg portuaire de La Rochelle, par le duc d'Aquitaine, vers 1135, la ville naissante se peuple rapidement.

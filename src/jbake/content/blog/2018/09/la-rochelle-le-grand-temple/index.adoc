@@ -8,7 +8,6 @@ Jean-Claude Bonnin
 :jbake-tags: La Rochelle, Le Grand Temple
 :description: Documentation sur le Grand Temple
 :idprefix:
-
 :imagesdir: ./images
 
 .Le Grand Temple, Émile Couneau La Rochelle Disparue, La Rochelle, Foucher, 1904, p. 305.
