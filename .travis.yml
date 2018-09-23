@@ -8,7 +8,7 @@ before_install:
   - export COMMIT_MESSAGE=$(git log -1 --pretty=%B)
 
 script:
-  - "./gradlew clean installTailwindCss bake --stacktrace"
+  - "./gradlew clean npmInstallTailwindCss bake --stacktrace"
 
 deploy:
   provider: script

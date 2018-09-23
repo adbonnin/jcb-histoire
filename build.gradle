@@ -25,7 +25,7 @@ node {
     download = true
 }
 
-task installTailwindCss(type: NpmTask) {
+task npmInstallTailwindCss(type: NpmTask) {
     args = ['npm', 'install', 'tailwindcss']
 }
 
