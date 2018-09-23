@@ -7,12 +7,13 @@ buildscript {
     }
 	dependencies {
         classpath 'com.orientechnologies:orientdb-core:2.2.34'
+        classpath 'com.moowork.gradle:gradle-node-plugin:1.2.0'
     }
 }
 
 plugins {
     id 'org.jbake.site' version '1.2.0'
-    id 'com.moowork.node' version '0.12'
+    id 'com.moowork.node' version '1.2.0'
     id 'org.ajoberstar.grgit' version '2.2.1'
     id 'org.ajoberstar.git-publish' version '0.3.3'
 }
