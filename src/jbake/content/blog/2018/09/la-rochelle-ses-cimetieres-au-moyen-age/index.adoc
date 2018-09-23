@@ -10,7 +10,7 @@ Jean-Claude Bonnin
 :idprefix:
 :imagesdir: ./images
 
-.Cérémonial de la bénédiction des cimetières d’après l’ancien « pontifical » de la cathédrale de La Rochelle (Pontificale Romanum, Rome, 1595), coll. Privée.
+.Cérémonial de la bénédiction des cimetières — d’après l’ancien « pontifical » de la cathédrale de La Rochelle (Pontificale Romanum, Rome, 1595), coll. Privée.
 image::ceremonial-benediction-cimetieres.png[align="center", width=600]
 
 
@@ -193,7 +193,7 @@ Il possédait un petit cimetière attenant à sa chapelle.
 Un acte de 1496 indique dans les confrontations : _« d’un bout à la chappelle Sainct Ladre, un petit cimetiere entre deux »_ footnote:[Arch. mun. La Rochelle, Hôpital Saint-Barthélemy, H 126, f° 33 v°, n° 60.].
 L’hôpital Saint-Ladre a disparu à l’époque des guerres de religion.
 
-.Page du registre des comptes de l'ancienne aumônerie Saint-Ladre de 1465-1466. La grande lettrine représente une lépreuse,agitant une clochette afin d'éloigner les passants. Médiathèque de La Rochelle, manuscrit 497, f° 179.
+.Page du registre des comptes de l'ancienne aumônerie Saint-Ladre de 1465-1466 — La grande lettrine représente une lépreuse,agitant une clochette afin d'éloigner les passants — Médiathèque de La Rochelle, manuscrit 497, f° 179.
 image::registre-comptes-lepreuse.png[align="center", width=500]
 
 
@@ -326,5 +326,5 @@ Il est démoli en 1875 lors de la construction de la Caserne Duperré, convertie
 Quant au nouveau cimetière de la paroisse Notre-Dame, entouré d’un mur en 1636, il fonctionne jusqu’à la fermeture de tous ceux de la ville, le 10 janvier 1794.
 Les inhumations ont lieu par la suite dans le clos de Gourville, devenu cimetière de la ville, et connu depuis sous le nom de Cimetière Saint-Éloi.
 
-.Attributs de la mort. Mur de l'ancien cimetière de l'église Saint-Sauveur, rue de la Ferté.
+.Attributs de la mort — Mur de l'ancien cimetière de l'église Saint-Sauveur — rue de la Ferté.
 image::attributs-de-la-mort.png[align="center", width=300]

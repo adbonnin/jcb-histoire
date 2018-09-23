@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/google-font.css" />
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/font-awesome.min.css" />
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/main.css" />
+    <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/asciidoc.css" />
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/add-on.css" />
     <link rel="stylesheet" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/monokai-sublime.css">
 

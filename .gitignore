@@ -3,8 +3,5 @@
 build
 .idea/
 
-## JBake
-output/
-
 ## Gradle
 .gradle/

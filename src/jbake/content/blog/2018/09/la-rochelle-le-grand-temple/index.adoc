@@ -10,7 +10,7 @@ Jean-Claude Bonnin
 :idprefix:
 :imagesdir: ./images
 
-.Le Grand Temple, Émile Couneau La Rochelle Disparue, La Rochelle, Foucher, 1904, p. 305.
+.Le Grand Temple — Émile Couneau La Rochelle Disparue, La Rochelle, Foucher, 1904, p. 305.
 image::le-grand-temple.png[align="center", width=700]
 
 Les premiers lieux du culte réformé à La Rochelle sont aménagés dans de grandes salles reconverties : la salle Saint-Michel est un local autrefois utilisé par la Confrérie Saint-Michel pour ses festins ; la salle Gargoulleau est une grande pièce de réception de l'hôtel particulier de l'échevin Louis Gargoulleau et la salle Saint-Yon est l'ancien réfectoire du couvent des Augustins.
@@ -112,7 +112,7 @@ footnote:[Archives municipales de La Rochelle, HH ARCHANC 22.]
 ____
 Devant Pierre Teuleron, notaire à La Rochelle, un marché pour la réalisation des travaux est passé le 4 décembre suivant, mais les autorisations officielles pour les effectuer traînent jusqu'en juillet 1639 footnote:[_Ibid_.].
 
-.Détails de la planche 76 de l'album de l'ingénieur Claude Masse : Plan, coupe et profil du Grand-Temple de La Rochelle qui étoit bâty a la place du Château.
+.Détails de la planche 76 de l'album de l'ingénieur Claude Masse — _Plan, coupe et profil du Grand-Temple de La Rochelle qui étoit bâty a la place du Château._
 image::plan-coupe-et-profil-du-grand-temple-de-la-rochelle.png[align="center", width=600]
 
 L'intérieur du bâtiment présente les aménagements effectués en 1667 pour l'approprier à l'usage du chapitre de la Cathédrale.
@@ -186,7 +186,7 @@ Au hasard de travaux publics effectués devant la façade de la nouvelle cathéd
 Des fouilles y ont même été pratiquées en 1886-1887 footnote:[Journal La Charente-Inférieure, 1887, n° 12 du 9 février et n° 36 du 4 avril.].
 À cette occasion, les angles des murs retrouvés sont matérialisés dans le sol de la place par des dalles footnote:[Médiathèque de La Rochelle, fonds Eugène Lévêque, manuscrit 2199, p. 220.], mais des réfections postérieures les ont fait disparaître.
 
-.Croquis d'implantation des dalles posées en 1887 pour indiquer les angles retrouvés du Grand Temple. Médiathèque de La Rochelle, fonds Eugène Lévêque, manuscrit 2199, p. 220.
+.Croquis d'implantation des dalles posées en 1887 pour indiquer les angles retrouvés du Grand Temple — Médiathèque de La Rochelle, fonds Eugène Lévêque, manuscrit 2199, p. 220.
 image::croquis-d-implantation-des-dalles.png[align="center", width=600]
 
 

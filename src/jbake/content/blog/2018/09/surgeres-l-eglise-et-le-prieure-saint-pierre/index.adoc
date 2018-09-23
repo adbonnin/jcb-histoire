@@ -23,7 +23,7 @@ Il appose son sceau au bas des actes privés pour en certifier le contenu.
 Bien sûr, l'apposition de son sceau n'est pas gratuite.
 Le prieur de Saint-Pierre lui-même, comme autorité religieuse, peut apposer son sceau dans les mêmes conditions.
 
-.Sceau de Robert, archiprêtre de Surgères, XIVe siècle footnote:[Empreinte d'après sa matrice en bronze retrouvée à Andilly-les-Marais, vers 1950, et conservée aux Archives départementales de la Charente-Maritime.]. SIGILLUM : ROBERTI : ARCHIPRESBITERI : SURGERI : AD : CAUZAS
+.Sceau de Robert, archiprêtre de Surgères, XIVe siècle footnote:[Empreinte d'après sa matrice en bronze retrouvée à Andilly-les-Marais, vers 1950, et conservée aux Archives départementales de la Charente-Maritime.] — SIGILLUM : ROBERTI : ARCHIPRESBITERI : SURGERI : AD : CAUZAS
 image::sceau-de-robert.png[align="center", width=200]
 
 Jusqu'au XVIIIe siècle, le prieuré Saint-Pierre de Surgères possède un beau fonds d'archives dont les plus anciens titres remontaient au XIIIe siècle.
@@ -78,7 +78,7 @@ On y entre par l'Eglise a la faveur d'une grande arcade... »_.
 L'évêque signale _« ... un pied de clocher qui est au fonds de ladite chapelle... »_.
 Le prieur se plaint des travaux effectués par ses paroissiens le dimanche et demande que le prélat dicte des ordonnances pour y remédier ; _« ... Représente de plus ledit prieur que la fabrique dudit St Pierre estant fort pauvre & sans presque point de rente, le fabriqueur donne le cemetiere a ferme avec le pouvoir de mettre des troupeaux ou de chevaux dedans & s'il ne donnoit pas ce cemetiere avec cette condition, il n'en auroit pas le tiers de la rente qu'il en tire... »_.
 
-.Monseigneur Henri de Laval de Bois-Dauphin, évêque de La Rochelle. Portrait gravé par Jean Lenfant en 1660.
+.Monseigneur Henri de Laval de Bois-Dauphin, évêque de La Rochelle — Portrait gravé par Jean Lenfant en 1660.
 image::portrait-monseigneur-henri-de-laval.png[align="center", width=300]
 
 Le prieur de Saint-Pierre a désormais moins d'importance que par le passé et le baron de Surgères tente d'en profiter.
@@ -144,14 +144,14 @@ Mais la petite commune n'a pas beaucoup de poids et sera contrainte d'abandonner
 L'ordonnance royale en date du 30 septembre 1840 autorise _« l'aliénation, par la fabrique de Surgères, du sol et des vieux matériaux de l'église de Saint Pierre de Surgères, pour le produit en être employé aux réparations de l'église paroissiale et du presbytère »_.
 En 1841, l'église Saint-Pierre, ainsi que son emplacement, sont vendus au profit de la fabrique de Surgères et le monument est rapidement démoli par la suite footnote:[Archives départementales de la Charente-Maritime, 2 O 2727 et 2 O 2704.].
 
-.L'église de Saint-Pierre de Surgères en 1840. Dessin de Louis-Benjamin Auguin, Médiathèque de Rochefort.
+.L'église de Saint-Pierre de Surgères en 1840 — Dessin de Louis-Benjamin Auguin, Médiathèque de Rochefort.
 image::dessin-l-eglise-de-saint-pierre.png[align="center", width=500]
 
 Après avoir perdu le monument emblématique de son antique paroisse, la commune de Saint-Pierre de Surgères perd bientôt son identité.
 Elle est supprimée par la Loi du 6 août 1850 et partagée entre ses deux voisines, Surgères et Saint-Germain-de-Marencennes.
 La République réalise les ambitions des barons de Surgères d'autrefois.
 
-.Croquis du sceau d'Aymar Buchade, archiprêtre de Surgères, 1302. Archives départementales de la vienne, Carton 15, sceau n° 85.
+.Croquis du sceau d'Aymar Buchade, archiprêtre de Surgères, 1302 — Archives départementales de la vienne, Carton 15, sceau n° 85.
 image::croquis-sceau-d-aymar-buchade.png[align="center", width=300]
 
 Prieurs connus::

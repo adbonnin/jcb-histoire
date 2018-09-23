@@ -19,7 +19,7 @@ Cependant, l'évêque de Saintes, dont la juridiction épiscopale s'étendait su
 Conseillé par ses moines, le prieur Guillaume se rend avec l'abbé de Cluny, leur supérieur, auprès du pape Eugène III, pour obtenir gain de cause.
 Considérant que l'église Notre-Dame n'est pas assez vaste pour accueillir les nouveaux habitants de la ville, le pape, par sa bulle datée de Segni, le 10 des calendes de mars 1145, ordonna à l'évêque de Saintes d'autoriser la construction de la nouvelle église footnote:[La plus ancienne copie conservée de la notice de fondation de l'église Saint-Barthélemy et de la bulle papale, effectuée avant la destruction des archives de l'église, est conservée à la Bibliothèque Nationale, manuscrit français 16906, f° 42-43. Sa publication dans l'_Histoire des Comtes de Poictou et ducs de Guyenne_ de Jean Besly (Paris, 1647), p. 473, donne par erreur la date 1152, reprise depuis par la plupart des historiens. La copie manuscrite du document, effectuée par ce même historien et également conservée à la Bibliothèque Nationale, indique cependant bien 1145.].
 
-.Chapiteau attribué à la première église Saint Barthélemy retrouvé en 1903, lors de l'installation du calorifère sous le chevet de la Cathédrale. Croquis d'Émile Couneau, publié dans La Rochelle disparue, La Rochelle, Foucher, 1904, p. 248.
+.Chapiteau attribué à la première église Saint Barthélemy retrouvé en 1903, lors de l'installation du calorifère sous le chevet de la Cathédrale — Croquis d'Émile Couneau, publié dans La Rochelle disparue, La Rochelle, Foucher, 1904, p. 248.
 image::croquis-chapiteau.png[align="center",width=300]
 
 En 1217, Pierre, évêque de Saintes, en accord avec le prieur de l'Île-d'Aix, de ses religieux desservant l'église Notre-Dame, et à la demande des bourgeois de La Rochelle, définit les limites des trois principales paroisses de la ville : Notre-Dame, Saint-Barthélemy et Saint-Sauveur.
@@ -30,7 +30,7 @@ Après la démolition du château royal par les rochelais, en 1372, c'est en l'�
 Tous les ans, le dimanche de la Quasimodo, c'est dans cette église que se déroule, jusqu'à sa démolition, en 1568, l'élection du maire de La Rochelle.
 Par délibération du corps-de-ville, celle-ci se déroulera par la suite en l'hôtel-de-ville footnote:[Amos Barbot, « Histoire de La Rochelle », publiée par Denys d'Aussy, Archives historiques de la Saintonge et de l'Aunis, t. XVII (1889), p. 279.].
 
-.Miniature provenant du Livre de la Paterne, illustrant l'élection, au XVe siècle, du maire de la commune rochelaise, dans le chœur de l'église Saint-Bartlélemy. Médiathèque de La Rochelle.
+.Miniature provenant du Livre de la Paterne, illustrant l'élection, au XVe siècle, du maire de la commune rochelaise, dans le chœur de l'église Saint-Bartlélemy — Médiathèque de La Rochelle.
 image::miniature-election.png[align="center", width=600]
 
 Depuis une époque indéterminée, sans doute dès la fin du XIIIe siècle, l'église Saint-Barthélemy est gérée par une « fabrique ».
@@ -55,7 +55,7 @@ Nous rencontrons la Confrérie Saint-Nicolas et Saint-Barthélemy, et bien plus 
 
 À partir du XIVe siècle, en dehors du curé, autrefois chapelain, puis recteur, nous trouvons l'existence d'un collège ou chapitre de prêtres, mentionné dans les lettres royales de 1429, qui assure le service religieux de l'église, les _compagnons Dieu-servant en l'église Saint-Barthélemy_.
 
-.Pierre tombale de Maître Nicolas de Lavausseau, compagnon Dieu-servant en l'église Saint Barthélemy de La Rochelle, décédé en mars 1503, retrouvée lors des travaux de la Cathédrale de La Rochelle, en 1844. Pierre noire de Tournai, 2,02 m x 0,935, épaisseur 0,24 m, collections lapidaires municipales.
+.Pierre tombale de Maître Nicolas de Lavausseau, compagnon Dieu-servant en l'église Saint Barthélemy de La Rochelle, décédé en mars 1503, retrouvée lors des travaux de la Cathédrale de La Rochelle, en 1844 — Pierre noire de Tournai, 2,02 m x 0,935, épaisseur 0,24 m, collections lapidaires municipales.
 image::pierre-tombale.png[align="center", width=400]
 
 Lors des travaux de construction du chœur de la cathédrale, au milieu du XIXe siècle, deux tombes de ces compagnons Dieu-servant sont retrouvées, celle de Nicolas de Lavausseau, ci dessus, ecclésiastique connu à partir de 1474, décédé en mars 1503, et celle de Jacques Rivière, trouvée près du puits footnote:[Médiathèque de La Rochelle, manuscrit 456 (Abbé Paul Cholet), f° 122.], prêtre mentionné dans les textes en 1508, dont la date fautive doit être lue 1510 :
@@ -109,7 +109,7 @@ Les édifices religieux de la ville sont démolis afin d'employer aux nouveaux o
 L'église Saint-Barthélemy subit le sort commun.
 Dans le même temps, les ecclésiastiques retrouvés dans la ville sont arrêtés et incarcérés dans la tour de la Lanterne où ils sont massacrés.
 
-.Les ruines de l'église Saint Barthélemy de La Rochelle à la fin du XVIe siècle. Gravure de Jean Le Clerc, Paris, datée 1628, présentant cependant une topographie antérieure de la ville (vers 1580).
+.Les ruines de l'église Saint Barthélemy de La Rochelle à la fin du XVIe siècle — Gravure de Jean Le Clerc, Paris, datée 1628, présentant cependant une topographie antérieure de la ville (vers 1580).
 image::ruines.png[align="center", width=400]
 
 La résistance des rochelais aux volontés du roi conduit au siège de la ville par ses troupes, en 1572-1573.
@@ -247,7 +247,7 @@ Une partie de l'emplacement de l'ancienne église, qui n'a pas été utilisée p
 La paroisse est à court d'argent pour régler ce qu'elle doit encore à Jacques Maisonneuve, maître maçon, architecte et entrepreneur.
 Le 30 décembre 1679, les marguilliers lui constituent une rente pour clôturer le compte footnote:[Arch. dép. Chte-Mme, 3 E 1793*, min. Jean Rabusson, notaire à La Rochelle, 1679, f° 191.].
 
-.Plan de la nouvelle église Saint-Barthélemy, construite de 1668 à 1678, dressé par Émile Couneau, d'après la planche de l'album de l'ingénieur Claude Masse. Émile Couneau, La Rochelle disparue, La Rochelle, Foucher, 1904, p. 245.
+.Plan de la nouvelle église Saint-Barthélemy, construite de 1668 à 1678, dressé par Émile Couneau, d'après la planche de l'album de l'ingénieur Claude Masse — Émile Couneau, La Rochelle disparue, La Rochelle, Foucher, 1904, p. 245.
 image::plan-de-la-nouvelle-eglise.png[align="center", width=600]
 
 Le 9 février 1687, durant le feu de joie rassemblant la population sur la place du château pour célébrer le rétablissement du roi, la cathédrale prend feu.
@@ -264,7 +264,7 @@ En dehors du grand autel dédié à saint Barthélemy, il indique deux autels co
 Ayant demandé au curé si il avait à se plaindre de ses paroissiens,
 _«... auroit respondu qu'il y en avoit qui estoient extremement negligens a satisfaire aux devoirs de paroisse jusques a estre des années entieres sans y venir, d'autres tres negligens a envoier leurs enfans et leurs domestiques au Cathéchisme... se seroit aussi plaint que le luxe regnoit dans sa paroisse...»_ footnote:[Archives de l'Évêché de La Rochelle.].
 
-.Élévation et coupe du clocher de l'église Saint-Barthélemy de La Rochelle. Dessins aquarellés de J.-N. Bournaud, milieu XVIIIe siècle, d'après les albums réalisés par  l'ingénieur Claude Masse vers 1700.
+.Élévation et coupe du clocher de l'église Saint-Barthélemy de La Rochelle — Dessins aquarellés de J.-N. Bournaud, milieu XVIIIe siècle, d'après les albums réalisés par  l'ingénieur Claude Masse vers 1700.
 image::elevation-et-coupe-du-clocher.png[align="center", width=600]
 
 La façade de l'église construite en 1668-1678 se trouvait en retrait par rapport à la rue Saint-Barthélemy, actuelle rue Aufrédi.
@@ -275,7 +275,7 @@ L'évêque leur assigne l'église des Pères Augustins « sous leur bon plaisir
 La confirmation de cette translation est demandée au roi qui fait parvenir sa réponse par l'intendant :
 _« ... l'intention de sa majesté etoit que le chapitre continuât de faire l'office dans l'eglise des P. Augustins, jusqu'à ce que l'eglise de St Barthelemy fut en état et que lorsqu'elle seroit en état, le chapitre retournât dans ladite eglise pour y faire l'office... »_ footnote:[_Ibid._, n° 2.].
 
-.Plan de l'église Saint-Barthélemy vers 1740. D'après un plan des Archives municipales de La Rochelle
+.Plan de l'église Saint-Barthélemy vers 1740 — D'après un plan des Archives municipales de La Rochelle
 image::plan-eglise.png[align="center", width=400]
 
 Les autorités n'oublient pas la reconstruction de la Cathédrale de La Rochelle.
@@ -325,23 +325,23 @@ En fait, c'est Marie Borin qui en est l'acquéreur.
 Le projet d'achèvement du chœur de la Cathédrale est toujours d'actualité.
 Le 8 juin 1839, l'État achète à Marie Borin son établissement de bains publics dont l'emplacement servira à la construction footnote:[Arch. dép. Chte-Mme, 186 V 1.].
 
-.Plan dressé en 1838 des propriétés Regnauld et Borin, dont l'établissement de bains publics, sur l'emplacement duquel doit être édifié le  chœur de la Cathédrale. Photocopie conservée dans les dossiers de notes du Père Bernard Coutant, l'original n'étant pas localisé. Archives départementales de la Charente-Maritime, 30 J 109.
+.Plan dressé en 1838 des propriétés Regnauld et Borin, dont l'établissement de bains publics, sur l'emplacement duquel doit être édifié le  chœur de la Cathédrale — Photocopie conservée dans les dossiers de notes du Père Bernard Coutant, l'original n'étant pas localisé. Archives départementales de la Charente-Maritime, 30 J 109.
 image::plan-dresse-en-1838.png[align="center", width=600]
 
 Le 9 juillet 1839, Étienne Fortuné Alphonse Regnaud et son épouse, Anne Charlotte Boileau, vendent à Claude Grobot, coiffeur, marchand de parfumerie, et à Marguerite Audouin, son épouse, la grande maison au coin des rues Chaudrier et Aufredy, dont ceux-ci étaient locataires depuis 1832 footnote:[Acte Gaudin, notaire à la Rochelle, Arch. dép. Chte-Mme, 4 Q 4/187 Transcriptions, n° 29, fos 57 v°-62.].
 L'État achète par la suite les autres propriétés situées sur l'emplacement  de l'ancienne église, dont la grande maison qu'avait fait édifier la veuve Regnaud, où sera installé le presbytère de la Cathédrale footnote:[Arch. dép. Chte-Mme, 186 V 1 - Bernard Coutant, _« Les Cahiers »_..., op. cit., p. 237-241.].
 
-.Le site de l'ancienne église Saint-Barthélemy, en 1849, à l'époque du creusement des fondations du chœur de la Cathédrale. Croquis d'Adolphe Varin, Médiathèque de La Rochelle.
+.Le site de l'ancienne église Saint-Barthélemy, en 1849, à l'époque du creusement des fondations du chœur de la Cathédrale — Croquis d'Adolphe Varin, Médiathèque de La Rochelle.
 image::site-ancienne-eglise.png[align="center", width=600]
 
-.Clé de voûte de l'ancienne église Saint Barthélemy, début XVe siècle, découverte lors des travaux de la Cathédrale Collections lapidaires municipales
+.Clé de voûte de l'ancienne église Saint Barthélemy, début XVe siècle, découverte lors des travaux de la Cathédrale — Collections lapidaires municipales
 image::cle-de-voute-ancienne-eglise.png[align="center", width=400]
 
 .Vestiges de la façade de l'église Saint-Barthélemy (travaux de 1722)
 image::vestiges-de-la-facade-01.png[align="center", width=400]
 image::vestiges-de-la-facade-02.png[align="center", width=600]
 
-.Le martyre de saint Barthélemy, école française, XVIIe siècle, inspiré du peintre Nicolas Poussin, _« le martyre de saint Érasme »_. Présenté dans le déambulatoire de la Cathédrale Saint-Louis de la Rochelle, il proviendrait de l'ancienne église Saint-Barthélemy.
+.Le martyre de saint Barthélemy, école française, XVIIe siècle, inspiré du peintre Nicolas Poussin, _« le martyre de saint Érasme »_ — Présenté dans le déambulatoire de la Cathédrale Saint-Louis de la Rochelle, il proviendrait de l'ancienne église Saint-Barthélemy.
 image::tableau-martyre-saint-barthelemy.png[align="center", width=600]
 
 Recteurs ou curés connus de l'église Saint Barthélemy de La Rochelle du XIIIe au XVIe siècle::

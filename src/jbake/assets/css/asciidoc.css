@@ -1,0 +1,9 @@
+
+.imageblock {
+    padding-bottom: 10px;
+    font-size: 95%;
+}
+
+.imageblock .title {
+    color: #777777;
+}
