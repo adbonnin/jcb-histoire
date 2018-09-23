@@ -1,0 +1,5 @@
+= Jean-Claude Bonnin - Histoire
+
+Documentation historique de Jean-Claude Bonnin
+
+image:https://travis-ci.com/adbonnin/jcb-histoire.svg?branch=master["Build Status", link="https://travis-ci.com/adbonnin/jcb-histoire"]
