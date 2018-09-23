@@ -32,7 +32,3 @@ gitPublish {
 
     commitMessage = System.env.COMMIT_MESSAGE ?: 'chore(): nouvelle publication'
 }
-
-task bakeAndPush(type: GradleBuild) {
-    tasks = ['clean', 'bake', 'gitPublishPush']
-}
