@@ -7,7 +7,6 @@ buildscript {
     }
 	dependencies {
         classpath 'com.orientechnologies:orientdb-core:2.2.34'
-        classpath 'com.moowork.gradle:gradle-node-plugin:1.2.0'
     }
 }
 
@@ -26,8 +25,8 @@ node {
     download = true
 }
 
-task npmInstall(type: Exec) {
-    commandLine 'npm', 'install', 'tailwindcss'
+task installTailwindCss(type: NpmTask) {
+    args = ['npm', 'install', 'tailwindcss']
 }
 
 gitPublish {
