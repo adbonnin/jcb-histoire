@@ -5,7 +5,7 @@ Jean-Claude Bonnin
 :jbake-author: Jean-Claude Bonnin
 :jbake-type: post
 :jbake-status: published
-:jbake-tags: La Rochelle, Le Grand Temple
+:jbake-tags: La Rochelle, Le Grand Temple, Cathédrale, Protestants, Huguenots
 :description: Documentation sur le Grand Temple
 :idprefix:
 :imagesdir: ./images
