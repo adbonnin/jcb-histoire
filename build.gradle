@@ -26,7 +26,7 @@ node {
 }
 
 task npmInstallTailwindCss(type: NpmTask) {
-    args = ['npm', 'install', 'tailwindcss']
+    args = ['install', 'tailwindcss']
 }
 
 gitPublish {
